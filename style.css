@@ -1,0 +1,47 @@
+body {
+    background-color:#d6d6e9 ;
+    display :flex;
+    flex-direction : column ;
+    justify-content : center ;
+    align-items : center ;
+    height: 100vh;
+    width: 100%;
+    margin :0;
+}
+
+div#container {
+    background-color: white ;
+    display :flex;
+    flex-direction : column ;
+    justify-content : center ;
+    align-items : center ;
+    height: 50vh;
+    width: 80%;
+    border-radius: 10px;
+    padding: 15px;
+}
+button {
+    margin-bottom: 10px;
+}
+#web{
+    color: #80c1ff;
+    font-weight : bold ;
+    margin-top:-3px ;
+}
+
+h3{
+    margin-bottom: 1.5px;
+    font-size :1.3em;
+}
+
+img{
+    max-width:30% ;
+    border :3px solid #80c1ff;
+    border-radius: 50%;
+}
+
+#review{
+   text-align : center ;
+   margin-top:-5px ;
+   color: #767c8e;
+}
